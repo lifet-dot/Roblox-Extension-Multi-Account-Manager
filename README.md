@@ -1,4 +1,4 @@
-# 🎮 Roblox Multi Account Manager
+# 🎮 Roblox Extension Multi Account Manager
 
 <p align="center">
 
