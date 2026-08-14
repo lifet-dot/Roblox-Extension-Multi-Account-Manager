@@ -21,7 +21,7 @@ A powerful browser extension built for users who need to manage and run multiple
 
 ## ✨ Overview
 
-**Roblox Multi Account Manager** is a professionally developed browser extension designed to make managing multiple Roblox accounts simple, fast and convenient.
+**Roblox Multi Account Manager** is a professionally developed browser extension designed to make managing multiple Roblox accounts simple, fast and convenient..
 
 The extension allows you to:
 
