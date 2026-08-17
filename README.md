@@ -391,7 +391,7 @@ If this project is useful to you, consider supporting its development.
 
 📢 **Share the project**
 
-Every star and contribution helps the project grow.
+Every star and contribution helps, the project grow.
 
 ---
 
