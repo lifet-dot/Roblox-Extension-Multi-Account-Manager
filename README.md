@@ -52,7 +52,7 @@ This allows users to continue using the extension without having to manually reb
 
 # 🚀 Features
 
-### 🔄 Account Switching
+### 🔄 Account Switching.
 
 Quickly switch between your Roblox accounts without having to repeatedly go through the normal login process.
 
