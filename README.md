@@ -63,7 +63,7 @@ Run multiple Roblox sessions simultaneously on a single computer.
 For example:
 
 ```text
-Account 01 ──► Roblox Client
+Account 01 ──► Roblox Client.
 Account 02 ──► Roblox Client
 Account 03 ──► Roblox Client
 Account 04 ──► Roblox Client
