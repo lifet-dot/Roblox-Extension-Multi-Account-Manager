@@ -65,7 +65,7 @@ For example:
 ```text
 Account 01 ──► Roblox Client.
 Account 02 ──► Roblox Client.
-Account 03 ──► Roblox Client
+Account 03 ──► Roblox Client.
 Account 04 ──► Roblox Client
 Account 05 ──► Roblox Client
      ...
